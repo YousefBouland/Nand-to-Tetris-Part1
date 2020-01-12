@@ -1,5 +1,5 @@
 # Nand-to-Tetris-Part1
-This project-centered course is focused on building the hardware for a simple 16-bit computer starting from Nand gates
+This project-centered course is focused on building the hardware for a simple 16-bit computer starting from Nand gates.
 
 ## Description
 The Nand to Tetris course covers a series of projects that go all the way from Boolean algebra and elementary logic gates to building a Central Processing Unit, a memory system, and a hardware platform, leading up to a general-purpose computer that can run any program. This course allows one to become familiar with many important hardware abstractions through building, hands on, a complex and useful system from the ground up.
